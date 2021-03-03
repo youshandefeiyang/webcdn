@@ -1,25 +1,2 @@
 * {touch-action: pan-y;}
 .canvas-wrap{ width:100%; height:100%; position:fixed; left:0; top:0; }
-   	.el-button--goon.is-active,
-   	.el-button--goon:active {
-   	  background: #4797ff;
-   	  border-color: #4797ff;
-   	  color: #fff;
-   	}
-   	.el-button--goon:focus,
-   	.el-button--goon:hover {
-   	  background: #079fff;
-   	  border-color: #079fff;
-   	  color: #fff;
-   	}
-   	.el-button--goon {
-          width: 100%;
-	  margin-top: 20px;
-   	  color: #FFF;
-   	  background-color: #4797ff;
-   	  border-color: #4797ff;
-   	}
-	.el-button--goon a{
-	  color: white;
-	  text-decoration: none;
-	}
