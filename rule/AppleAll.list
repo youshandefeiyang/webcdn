@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,apps.apple.com,PROXY
+DOMAIN-SUFFIX,itunes.apple.com,PROXY
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
+DOMAIN,ppq.apple.com,PROXY
+DOMAIN,beta.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
