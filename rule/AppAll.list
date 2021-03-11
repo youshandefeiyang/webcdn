@@ -1,0 +1,14 @@
+# > App Store Connect
+DOMAIN,appstoreconnect.apple.com,App Store Connect
+DOMAIN,iosapps-ssl.itunes.apple.com,App Store Connect
+DOMAIN,itcmobile.itunes.apple.com,App Store Connect
+# App Store
+# Store content such as apps, books, and music
+DOMAIN-SUFFIX,apps.apple.com,PROXY
+DOMAIN-SUFFIX,itunes.apple.com,PROXY
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
+DOMAIN,ppq.apple.com,PROXY
+# TestFlight
+DOMAIN,beta.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
