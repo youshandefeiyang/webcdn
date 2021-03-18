@@ -5581,3 +5581,5 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com 
 #-------------------------国外网站完--------------------------------#
+# 锄禾的库
+DOMAIN-SUFFIX,jdsharedresourcescdn.azureedge.net
