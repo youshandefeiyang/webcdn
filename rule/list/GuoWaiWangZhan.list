@@ -5581,5 +5581,16 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com 
 #-------------------------国外网站完--------------------------------#
+
 # 锄禾的库
 DOMAIN-SUFFIX,jdsharedresourcescdn.azureedge.net
+
+# 虚拟货币交易平台
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit-app.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,bybit.com
+
+# 黄色网站
+DOMAIN-SUFFIX,netflav.com
+
