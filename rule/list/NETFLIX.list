@@ -198,5 +198,4 @@ IP-CIDR,210.0.153.0/24,no-resolve
 IP-CIDR,203.75.84.0/24,no-resolve
 IP-CIDR,203.198.13.0/24,no-resolve
 IP-CIDR,203.198.80.0/24,no-resolve
-SRC-IP-CIDR,192.168.1.38/32,no-resolve
-SRC-IP-CIDR,192.168.1.39/32,no-resolve
+
