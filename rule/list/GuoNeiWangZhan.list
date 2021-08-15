@@ -6171,18 +6171,6 @@ DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
-# Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-
 # Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
@@ -6256,15 +6244,6 @@ DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflytek.com
 
-# Iqiyi
-DOMAIN-SUFFIX,71.am
-DOMAIN-SUFFIX,71edge.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qy.net
 
 # JD
 DOMAIN-SUFFIX,360buy.com
@@ -6354,29 +6333,6 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohuno.com
 DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
-
-# Sony
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
-# SteamCN
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.ksyna.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
