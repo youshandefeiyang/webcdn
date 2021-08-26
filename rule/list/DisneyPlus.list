@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN,disney.content.edge.bamgrid.com
 DOMAIN,disney.connections.edge.bamgrid.com
+DOMAIN,appconfigs.disney-plus.net
