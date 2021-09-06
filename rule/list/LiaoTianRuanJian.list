@@ -28,7 +28,7 @@ IP-CIDR,158.85.46.128/27,no-resolve
 IP-CIDR,173.192.222.160/27,no-resolve
 IP-CIDR,184.173.128.0/17,no-resolve
 IP-CIDR,158.85.224.160/27,no-resolve
-IP-CIDR,75.126.150.0/16,no-resolve
+#IP-CIDR,75.126.150.0/16,no-resolve
 IP-CIDR,69.171.235.0/16,no-resolve
 # Line
 DOMAIN-SUFFIX,lin.ee
