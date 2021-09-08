@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 IP-CIDR,13.35.0.0/17,no-resolve
+IP-CIDR,52.84.0.0/15,no-resolve
