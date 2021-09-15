@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+IP-CIDR,69.171.235.0/16,no-resolve
