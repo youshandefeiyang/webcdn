@@ -1,2 +1,3 @@
 * {touch-action: manipulation;}
 .canvas-wrap{ width:100%; height:100%; position:fixed; left:0; top:0; }
+.el-card { background-color: rgba(255,255,255,.7) !important; }
