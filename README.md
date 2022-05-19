@@ -1,2 +1,2 @@
 # webcdn
-个人 jsdelivr CDN仓库！
+个人 WEB CDN仓库！
