@@ -186,7 +186,7 @@ IP-CIDR,13.250.186.128/26,no-resolve
 IP-CIDR,13.250.186.16/29,no-resolve
 IP-CIDR,13.250.186.192/28,no-resolve
 IP-CIDR,13.250.186.208/29,no-resolve
-IP-CIDR,13.32.0.0/15,no-resolve
+#IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.34.0.128/26,no-resolve
 IP-CIDR,13.34.1.0/26,no-resolve
 IP-CIDR,13.34.10.128/26,no-resolve
