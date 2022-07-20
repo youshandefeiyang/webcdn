@@ -2,6 +2,7 @@
 USER-AGENT,HBO%20GO%20PROD*
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.tw
 DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,bcbolthboa-a.akamaihd.net
